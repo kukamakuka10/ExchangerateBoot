@@ -1,0 +1,18 @@
+GET http://localhost:8080/courses/update
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-07-31T181822.500.json
+
+###
+
+GET http://localhost:8080/courses/update
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-07-31T181730.500.json
+
+###
+

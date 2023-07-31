@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-07-31T15:17:30.825+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/courses/update"
+}
